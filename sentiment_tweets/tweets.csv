@@ -1,4 +1,123 @@
 tweet,sentiment
 "Me encanta este producto",positivo
-"Qué mal servicio",negativo
-"Está bien, nada especial",neutral
+"Es increíble",positivo
+"Funciona de maravilla",positivo
+"Estoy muy contento con esto",positivo
+"Superó lo que esperaba",positivo
+"Muy recomendable",positivo
+"Excelente compra",positivo
+"Gran calidad",positivo
+"Lo amo",positivo
+"Simplemente perfecto",positivo
+"Una maravilla",positivo
+"Me dejó impresionado",positivo
+"Vale cada centavo",positivo
+"Todo salió perfecto",positivo
+"Muy satisfecho",positivo
+"Fantástico servicio",positivo
+"Entrega rápida",positivo
+"Lo volvería a comprar",positivo
+"Cumple y supera",positivo
+"Una gran experiencia",positivo
+"Me sorprendió bastante",positivo
+"Muy buen producto",positivo
+"De lo mejor que he comprado",positivo
+"Funciona genial",positivo
+"Estoy encantado",positivo
+"Excelente atención",positivo
+"Todo fue muy fácil",positivo
+"Muy intuitivo",positivo
+"Calidad premium",positivo
+"Me fascina",positivo
+"10 de 10",positivo
+"Todo perfecto",positivo
+"Es buenísimo",positivo
+"Muy eficiente",positivo
+"Me encanta cómo funciona",positivo
+"Gran servicio",positivo
+"Recomendado totalmente",positivo
+"Una compra inteligente",positivo
+"Estoy feliz con esto",positivo
+"Resultado excelente",positivo
+
+"No me gustó",negativo
+"Es terrible",negativo
+"Muy decepcionante",negativo
+"No funciona bien",negativo
+"Pésima calidad",negativo
+"Mal servicio",negativo
+"Una mala experiencia",negativo
+"No lo recomiendo",negativo
+"Me arrepiento de comprarlo",negativo
+"No vale la pena",negativo
+"Muy mala atención",negativo
+"Producto defectuoso",negativo
+"Se dañó rápido",negativo
+"Dinero desperdiciado",negativo
+"Estoy frustrado",negativo
+"No cumple lo prometido",negativo
+"Entrega tardía",negativo
+"Muy caro para lo que es",negativo
+"No sirve",negativo
+"Muy insatisfecho",negativo
+"Fatal",negativo
+"Decepcionante",negativo
+"No volveré a comprar",negativo
+"Calidad baja",negativo
+"Muy malo",negativo
+"Problemas constantes",negativo
+"Atención horrible",negativo
+"No funciona correctamente",negativo
+"Experiencia negativa",negativo
+"Un desastre",negativo
+"Malísimo",negativo
+"No me convenció",negativo
+"Muchos fallos",negativo
+"Servicio deficiente",negativo
+"Muy lento",negativo
+"No lo recomiendo para nada",negativo
+"Producto inútil",negativo
+"Muy mala compra",negativo
+"Insatisfactorio",negativo
+"Totalmente decepcionado",negativo
+
+"Está bien",neutral
+"Normal",neutral
+"Regular",neutral
+"No está mal",neutral
+"Podría mejorar",neutral
+"Cumple su función",neutral
+"Sin más",neutral
+"Aceptable",neutral
+"Ni bueno ni malo",neutral
+"Está correcto",neutral
+"No destaca",neutral
+"Más o menos",neutral
+"Es lo esperado",neutral
+"No impresiona",neutral
+"Está decente",neutral
+"Funciona como debería",neutral
+"No tengo quejas",neutral
+"Tampoco es increíble",neutral
+"Es básico",neutral
+"Promedio",neutral
+"Normalito",neutral
+"Está ok",neutral
+"No es gran cosa",neutral
+"Podría ser peor",neutral
+"No está mal por el precio",neutral
+"Cumple lo mínimo",neutral
+"Está pasable",neutral
+"Ni fu ni fa",neutral
+"Correcto sin más",neutral
+"No sorprende",neutral
+"Simplemente funciona",neutral
+"Lo esperado",neutral
+"No destaca en nada",neutral
+"Está en la media",neutral
+"No emociona",neutral
+"Funcional",neutral
+"Adecuado",neutral
+"Está estándar",neutral
+"Sin sorpresas",neutral
+"Todo normal",neutral
