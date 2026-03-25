@@ -1,0 +1,4 @@
+tweet,sentiment
+"Me encanta este producto",positivo
+"Qué mal servicio",negativo
+"Está bien, nada especial",neutral
